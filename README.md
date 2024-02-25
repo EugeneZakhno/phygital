@@ -1,5 +1,6 @@
 # sketchfab
-![image](https://github.com/EugeneZakhno/sketchfab/assets/30446748/3374322c-9db1-4f82-a896-4b316f5f9e09)
+![image](https://github.com/EugeneZakhno/phygital/assets/30446748/09082129-f3e3-4b91-ad22-0d7220fa3e38)
+
 
 ----
 https://eugenezakhno.github.io/phygital/
